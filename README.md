@@ -6,11 +6,7 @@ A game produced at APU by Zachary Gomez.
 
 ## Description
 
-A melancholy tale.
-
-## Instructions
-
-S
+In the game you are thrown into a spooky experience in which you delve deeper and deeper into an abandoned mining town. Finding mysterious puzzles left behind by the townspeople.
 
 ## Controls
 
